@@ -1,0 +1,16 @@
+{
+  "product_codes": [
+    "ABG01",
+    "CDF02",
+    "XZT03",
+    "LKP04",
+    "PQR05",
+    "MNO06",
+    "DEF07",
+    "XYZ08",
+    "QWE09",
+    "HJK10"
+  ],
+  "test_code": "TSTCDE",
+  "discord_webhook_url": "https://discordapp.com/api/webhooks/1229927489967751198/guXBZknaiY2gC8kfirSMr4B0s-NIqY1LEUkbrftkwkilOzfYAwytRBbzGq2FK6kQ-BMj"
+}
