@@ -1,4 +1,4 @@
-.button {
+.styles_button__DNJ4N {
     text-decoration: none;
     background-color: #3b78dc;
     display: block;
@@ -17,7 +17,7 @@
     transition: transform .1s linear,-webkit-transform .1s linear
 }
 
-.button:active {
+.styles_button__DNJ4N:active {
     -webkit-transform: scale(.95);
     -ms-transform: scale(.95);
     transform: scale(.95)
